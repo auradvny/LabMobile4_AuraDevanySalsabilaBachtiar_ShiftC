@@ -1,4 +1,4 @@
-# Tugas Pertemuan 3
+# Tugas Pertemuan 4
 
 Nama : Aura Devany Salsabila Bachtiar
 
@@ -10,6 +10,6 @@ Shift Baru: Shift C
 ![Lampiran Login](login_page.png)
 ![Lampiran Registrasi](registrasi_page.png)
 ![Lampiran Produk](produk_page.png)
+![Lampiran Produk Tambah](produk_tambah.png)
 ![Lampiran Produk Detail](produk_detail.png)
 ![Lampiran Produk Edit](produk_form.png)
-![Lampiran Produk Tambah](produk_tambah.png)
