@@ -11,5 +11,5 @@ Shift Baru: Shift C
 ![Lampiran Registrasi](registrasi_page.png)
 ![Lampiran Produk](produk_page.png)
 ![Lampiran Produk Detail](produk_detail.png)
-![Lampiran Produk Form](produk_form.png)
+![Lampiran Produk Edit](produk_form.png)
 ![Lampiran Produk Tambah](produk_tambah.png)
